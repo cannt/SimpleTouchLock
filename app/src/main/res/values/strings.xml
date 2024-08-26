@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Touch Lock</string>
+    <string name="screen_lock_service_description">This service is used to provide a screen lock overlay.</string>
+</resources>
